@@ -1,4 +1,4 @@
-# Playwright testimine näidete abil
+# Playwright testimine
 
 See projekt demonstreerib Playwright raamistiku kasutamist automaatsete testide kirjutamiseks veebilehtedele.
 
